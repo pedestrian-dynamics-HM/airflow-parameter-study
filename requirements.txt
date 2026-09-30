@@ -1,0 +1,9 @@
+chaospy==4.3.10
+SALib==1.4.5
+numpy==1.23.0
+pandas==1.4.3
+black==22.6.0
+coverage==6.4.1
+scikit-learn==1.3.2
+omnetinireader==1.8.2
+-e suq-controller

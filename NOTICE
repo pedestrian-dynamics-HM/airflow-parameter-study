@@ -1,0 +1,10 @@
+This project includes code derived from
+
+Vadere infection model – uncertainty quantification
+Link: https://gitlab.lrz.de/vadere/infection-model-uq
+Author: Simon Rahn
+License: LGPL-3.0
+
+Modifications:
+- support for batch scenario directories
+- conducted experiments on airflow model instead of infection model

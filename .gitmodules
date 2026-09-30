@@ -1,0 +1,8 @@
+[submodule "suq-controller"]
+	path = suq-controller
+	url = https://github.com/roVer-HM/suq-controller.git
+	branch = master
+[submodule "vadere"]
+	path = vadere
+	url = https://gitlab.lrz.de/vadere/vadere
+	branch = master
